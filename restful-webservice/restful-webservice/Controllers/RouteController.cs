@@ -8,8 +8,8 @@ namespace restful_webservice.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "smth about Routes"
-    };
+            ""
+        };
 
         private readonly ILogger<RouteController> _logger;
 

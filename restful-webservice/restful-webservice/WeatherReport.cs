@@ -1,6 +1,6 @@
 ﻿namespace restful_webservice
 {
-    public class Report
+    public class WeatherReport
     {
         public DateTime Date { get; set; }
 
